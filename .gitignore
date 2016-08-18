@@ -1,8 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
-./build
-./build/*
+build
+build/*
 .idea
 .idea/*
 .idea/workspace.xml
