@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 ./build
 ./build/*
+.idea
+.idea/*
+.idea/workspace.xml
